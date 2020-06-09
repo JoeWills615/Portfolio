@@ -8,7 +8,7 @@ https://joewills615.github.io/Portfolio/
 
 When you arrive at the site you'll hit my intro page...
 
-<img src=".assests/portfolio_main_page.PNG">
+<img src="./assests/portfolio_main_page.PNG">
 
 After reading it and being impressed...and ignoring the fact that the 
 picture is from 25 years ago, when I was in college, you might head to 
