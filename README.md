@@ -21,20 +21,20 @@ it's good to have on there, cause when it's done...it'll
 be impressive. Next to the Production Content link you'll
 find the Country Music Prep tab...
 
-<img src=".assests/portfolio_cmp_page.PNG">
+<img src="./assests/portfolio_cmp_page.PNG">
 
 CMP is also in flux...damn COVID...
 
 But, say you want to contact me, there's the contact tab...
 
-<img src=".assests.portfolio_contact_page.PNG">
+<img src="./assests/portfolio_contact_page.PNG">
 
 A limited but growing Projects page is here under "Portfolio"...
 
-<img src=".assests.portfolio_projects_page.PNG">
+<img src="./assests/portfolio_projects_page.PNG">
 
 and finally if you get the joke, you laugh...if you 
 don't get the jump, you just enjoy an insanely catchy 
 pop tune from the 80s. And no, there's no million dollars to win...
 
-<img src=".assests.portfolio_milliondollar_page.PNG">
+<img src="./assests/portfolio_milliondollar_page.PNG">
