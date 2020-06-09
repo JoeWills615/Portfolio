@@ -14,7 +14,7 @@ After reading it and being impressed...and ignoring the fact that the
 picture is from 25 years ago, when I was in college, you might head to 
 the nav bar, and check out Production Content...
 
-<img src=".assests\portfolio_projects_page.PNG">
+<img src=".\assests\portfolio_projects_page.PNG">
 
 It's going through a little rebranding right now, but still, 
 it's good to have on there, cause when it's done...it'll
@@ -38,32 +38,3 @@ don't get the jump, you just enjoy an insanely catchy
 pop tune from the 80s. And no, there's no million dollars to win...
 
 <img src=".assests.portfolio_milliondollar_page.PNG">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
